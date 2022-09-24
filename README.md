@@ -2,7 +2,8 @@
 Esta es una aplicación moblie donde se puede calcular los grados y los radianes
 
 3. Configure the ANDROID_SDK_ROOT environment variable
-Add the following lines to your $HOME/.bash_profile or $HOME/.bashrc (if you are using zsh then ~/.zprofile or ~/.zshrc) config file:
+- Add the following lines to your $HOME/.bash_profile or $HOME/.bashrc (if you are using zsh then ~/.zprofile or ~/.zshrc) config file:
+
 export ANDROID_SDK_ROOT=$HOME/Library/Android/Sdk
 export PATH=$PATH:$ANDROID_SDK_ROOT/emulator
 export PATH=$PATH:$ANDROID_SDK_ROOT/platform-tool
